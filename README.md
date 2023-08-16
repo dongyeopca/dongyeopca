@@ -1,5 +1,14 @@
+<h2>😁 Hi, I'm dongyeop, a frontend developer who learns by doing</h2>
+<h3>✏️ History</h3>
 
-<div><h2>📚 STACKS</h2></div>
+- Tmax A&C FE developer, 2023.08 ~<br/>
+- Kakao Tech Campus 1st, 2023.04 ~ 2023.08<br/>
+- Wanted PreOnboarding Intership, 2023.04 ~ 2023.05<br/>
+- PlayGround(Startup team activity), 2022.03 ~ 2022.09<br/>
+- DND  2022.02 ~ 2022.03<br/>
+- LikeLion Pusan, 2020.04 ~ 2021.12<br/>
+- PNU Business Administration, 2017.03 ~ 2023.08<br/>
+<h3>📚 Stacks</h3>
 
 <div> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -19,7 +28,7 @@
   <br>
 </div>
 <br>
-<h2>🌱 I’m currently learning cs and algorithm</h2>
+
 
 # [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckehdduq95)](https://solved.ac/ckehdduq95)<br>
 
