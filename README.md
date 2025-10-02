@@ -1,7 +1,6 @@
-<h2>😁 Hi, I'm dongyeop, a frontend developer who learns by doing</h2>
-<h3>✏️ History</h3>
 
-- Tmax A&C FE developer, 2023.08 ~<br/>
+- NTS official ing~<br/>
+- Tmax A&C FE developer, 2023.08 ~ 2024.10<br/>
 - Kakao Tech Campus 1st, 2023.04 ~ 2023.08<br/>
 - Wanted PreOnboarding Intership, 2023.04 ~ 2023.05<br/>
 - PlayGround(Startup team activity), 2022.03 ~ 2022.09<br/>
